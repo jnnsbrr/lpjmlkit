@@ -1,4 +1,4 @@
-<a href=''><img src='inst/img/logo.svg' align='right' align='right' alt='logo' style='max-width: 300; max-height: 139; width: auto; height: auto' /></a>
+<a href=''><img src='inst/img/logo.svg' align='right' align='right' alt='logo' style='max-width: 300; max-height: 139' /></a>
 
 
 # Toolkit for Basic LPJmL Handling
