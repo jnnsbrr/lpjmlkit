@@ -1,4 +1,4 @@
-<a href=''><img src='inst/img/logo.png' align='right' align='right' alt='logo' style='max-width: 300; max-height: 139; width: auto; height: auto' /></a>
+<a href=''><img src='inst/img/logo.png' align='right' align='right' alt='logo' style='max-width: 300; max-height: 139; width: auto' /></a>
 
 # Toolkit for Basic LPJmL Handling
 R package **lpjmlkit**, version **1.7.1**
