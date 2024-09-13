@@ -1,4 +1,6 @@
-# Toolkit for Basic LPJmL Handling <a href=''><img src='inst/img/logo.png' align='right' height='139' /></a>
+<a href=''><img src='inst/img/logo.png' align='right' align='right' alt='logo' style='max-width: 300; max-height: 139; width: auto; height: auto' /></a>
+
+# Toolkit for Basic LPJmL Handling
 R package **lpjmlkit**, version **1.7.1**
 
 [![CRAN status](https://www.r-pkg.org/badges/version/lpjmlkit)](https://cran.r-project.org/package=lpjmlkit) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773134.svg)](https://doi.org/10.5281/zenodo.7773134) [![R build status](https://github.com/PIK-LPJmL/lpjmlkit/workflows/check/badge.svg)](https://github.com/PIK-LPJmL/lpjmlkit/actions) [![codecov](https://codecov.io/gh/PIK-LPJmL/lpjmlkit/branch/master/graph/badge.svg)](https://app.codecov.io/gh/PIK-LPJmL/lpjmlkit) [![r-universe](https://pik-piam.r-universe.dev/badges/lpjmlkit)](https://pik-piam.r-universe.dev/builds)
