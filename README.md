@@ -2,7 +2,7 @@
 
 R package **lpjmlkit**, version **1.7.4**
 
-[![CRAN status](https://www.r-pkg.org/badges/version/lpjmlkit)](https://cran.r-project.org/package=lpjmlkit) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773134.svg)](https://doi.org/10.5281/zenodo.7773134) [![R build status](https://github.com/PIK-LPJmL/lpjmlkit/workflows/check/badge.svg)](https://github.com/PIK-LPJmL/lpjmlkit/actions) [![codecov](https://codecov.io/gh/PIK-LPJmL/lpjmlkit/branch/master/graph/badge.svg)](https://app.codecov.io/gh/PIK-LPJmL/lpjmlkit) [![r-universe](https://pik-piam.r-universe.dev/badges/lpjmlkit)](https://pik-piam.r-universe.dev/builds)
+[![CRAN status](https://www.r-pkg.org/badges/version/lpjmlkit)](https://cran.r-project.org/package=lpjmlkit) [![DOI](https://joss.theoj.org/papers/10.21105/joss.05447/status.svg)](https://doi.org/10.21105/joss.05447) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7773134.svg)](https://doi.org/10.5281/zenodo.7773134) [![R build status](https://github.com/PIK-LPJmL/lpjmlkit/workflows/check/badge.svg)](https://github.com/PIK-LPJmL/lpjmlkit/actions) [![codecov](https://codecov.io/gh/PIK-LPJmL/lpjmlkit/branch/master/graph/badge.svg)](https://app.codecov.io/gh/PIK-LPJmL/lpjmlkit) [![r-universe](https://pik-piam.r-universe.dev/badges/lpjmlkit)](https://pik-piam.r-universe.dev/builds)
 
 ## Purpose and Functionality
 
