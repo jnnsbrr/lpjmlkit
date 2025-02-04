@@ -26,8 +26,8 @@ Encoding: UTF-8
 Depends:
     R (>= 3.5.0)
 URL: https://github.com/PIK-LPJmL/lpjmlkit,
-    https://doi.org/10.21105/joss.05447,
-    https://doi.org/10.5281/zenodo.7773134
+    https://doi.org/10.5281/zenodo.7773134,
+    https://doi.org/10.21105/joss.05447
 BugReports: https://github.com/PIK-LPJmL/lpjmlkit/issues
 Imports:
     magrittr,
@@ -56,4 +56,4 @@ Suggests:
     sf
 Config/testthat/edition: 3
 VignetteBuilder: knitr
-Date: 2024-11-27
+Date: 2024-12-12

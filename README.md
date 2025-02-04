@@ -76,17 +76,15 @@ In case of questions / problems please contact Jannes Breier <jannesbr@pik-potsd
 
 To cite package **lpjmlkit** in publications use:
 
-Breier J, Ostberg S, Wirth S, Minoli S, Stenzel F, Hötten D, Müller C (2024). _lpjmlkit: Toolkit for Basic LPJmL Handling_. doi:10.5281/zenodo.7773134 <https://doi.org/10.5281/zenodo.7773134>, R package version 1.7.4, <https://github.com/PIK-LPJmL/lpjmlkit>.
+Breier J, Ostberg S, Wirth S, Hötten D, Minoli S, Stenzel F, Müller C (????). "lpjmlkit: A toolkit for operating LPJmL and model-specific data processing - Version 9.103." doi:10.21105/joss.05447 <https://doi.org/10.21105/joss.05447>, <https://doi.org/10.21105/joss.05447>.
 
 A BibTeX entry for LaTeX users is
 
  ```latex
-@Manual{,
-  title = {lpjmlkit: Toolkit for Basic LPJmL Handling},
-  author = {Jannes Breier and Sebastian Ostberg and Stephen Björn Wirth and Sara Minoli and Fabian Stenzel and David Hötten and Christoph Müller},
-  year = {2024},
-  note = {R package version 1.7.4},
-  url = {https://github.com/PIK-LPJmL/lpjmlkit},
-  doi = {10.5281/zenodo.7773134},
+@Misc{,
+  title = {lpjmlkit: A toolkit for operating LPJmL and model-specific data processing - Version 9.103},
+  author = {Jannes Breier and Sebastian Ostberg and Stephen Björn Wirth and David Hötten and Sara Minoli and Fabian Stenzel and Christoph Müller},
+  doi = {10.21105/joss.05447},
+  url = {https://doi.org/10.21105/joss.05447},
 }
 ```
